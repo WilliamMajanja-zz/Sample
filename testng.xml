@@ -3,7 +3,7 @@
 <suite name="Eventsforce">
   <test name="TestAutomation">
     <classes>
-      <class name="src.testcases.AwardsEventRunner"/>
+      <class name="testcases.AwardsEventRunner"/>
     </classes>
   </test> <!-- TestAutomation -->
 </suite> <!-- Eventsforce -->
